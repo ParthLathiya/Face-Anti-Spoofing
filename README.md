@@ -102,4 +102,5 @@ pip install opencv-python cvzone ultralytics numpy
 
 ## Author
 Parth Lathiya
-This is a part of one of mini projects.
+
+~This is a part of one of mini projects.
